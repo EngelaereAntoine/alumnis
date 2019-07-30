@@ -1,0 +1,6 @@
+content/students
+content/images/students
+
+!content/students/lauris.md
+!content/images/students/lauris/*
+!content/images/students/lauris.png
